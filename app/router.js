@@ -11,4 +11,5 @@ Router.map(function () {
     this.route('t-shirt');
   });
   this.route('item', { path: '/item/:item_id' });
+  this.route('not-found', { path: '/*path' });
 });

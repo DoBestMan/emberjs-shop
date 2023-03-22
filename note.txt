@@ -2,3 +2,4 @@ ember s
 ember g route clothes/t-shirt
 ember g route clothes/index
 ember g route item
+ember g route not-found
