@@ -36,3 +36,5 @@ ember g route not-found
 
 
 ember destroy route clothes/index && ember destroy route clothes/t-shirt && ember destroy route clothes
+
+ember g route index && ember g route cart
