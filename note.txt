@@ -1,4 +1,34 @@
+Ember.js is a productive, battle-tested JavaScript framework for building modern web applications.
+It includes everything you need to buuild rich UIs that work on any device.
+
+Linkedin, Microsoft, Apple, Netflix, ... many big companies are using Ember.js
+
+It has very cool ember`cli`, ember`data`, ember`forum`
+
+This show Ember Ember-cli
+                Routing
+                Component
+                Service
+                Helper
+                Ember-data
+                Testing
+
+npm install -g ember-cli
+ember -v
+
+Visual Studio Extension /   Ember JS (ES6) and Handlebars code snippets
+                            Ember Snippets
+
+Google Chrome Extension / Ember Inspector
+
+mkdir emberjs-tutorial
+
+jsconfig.json
+
 ember s
+
+bootstrap
+
 ember g route clothes/t-shirt
 ember g route clothes/index
 ember g route item
