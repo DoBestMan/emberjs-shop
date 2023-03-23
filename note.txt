@@ -33,3 +33,6 @@ ember g route clothes/t-shirt
 ember g route clothes/index
 ember g route item
 ember g route not-found
+
+
+ember destroy route clothes/index && ember destroy route clothes/t-shirt && ember destroy route clothes
